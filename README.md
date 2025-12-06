@@ -33,7 +33,7 @@ This project was built as part of a **Technical Assignment** to demonstrate Full
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/your-username/salary-frontend.git](https://github.com/your-username/salary-frontend.git)
+    git clone [https://github.com/uchchwas1/salary-frontend.git](https://github.com/uchchwas1/salary-frontend.git)
     cd salary-frontend
     ```
 
